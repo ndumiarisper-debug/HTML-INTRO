@@ -1,0 +1,68 @@
+body{background-color: rgb(242, 239, 243);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-display: inherit;
+font-size: xx-large;
+}
+
+h1{color: rgb(0, 0, 255);}
+
+button{color: rgb(255, 4, 0);}
+
+header{
+    display: flex;
+    background-color: rgb(6, 246, 246);
+    font-style: inherit;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;}
+footer{
+    background-color: rgb(8, 187, 246);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+logo{
+    size:25px ;
+}
+.navbar ul{
+    list-style-type: none;
+    display:flex;
+    margin: 0;
+    padding: 10px 20px;
+    gap: 40px;
+}
+.navbar a{
+    color: black;
+
+}
+.navbar .login-item{
+    margin-left: auto;
+}
+
+.login-form{ 
+    background-color: #36ef0c;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+}
+
+login-container{
+    background-color: #36ef0c ;
+    max-width: 400px;
+    margin: 20px;
+    padding: 20px;
+
+    
+
+}
+.form-group{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+
+}
+
+.input-form{
+    display: flex;
+    flex-direction: column;
+    background-color: #36ef0c;
+    
+}

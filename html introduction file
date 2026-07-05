@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+ <title>
+    cybersecurity & ethical hacking
+ </title>       
+    </head>
+   <body>
+    <h2>languages [html]
+        <p>
+the Hyper Text Markup Language ,is used to create and structure the content web pages.
+steps to usse.
+1.get to your vscode page.
+2.click file.
+3.write the file name and create page.
+4.in the file set up a]type<!DOCTYPE html>
+b]type<html></html>click enter to separate the two.
+c]type <head></head>click enter to separate the two.
+d]type<title></title>then  click enter ,there  you can write the project title.
+e]move your typing casor the second </head> click enter.
+f]in the new line type <body></body> click enter to separate the two.
+g]new line type <h1></h1> click enter to separate the two,*1 is a vary and represents te size of your heading.
+h]new line type<p></p> click enter to separate the two.
+5.in the new space created you write your paragraph describing your project.
+6.click ctrl+s to save your project for later views
+7.go live to view your notes*first timers use instal live server from the extensions tab.
+8.to view your notes directly open from the new folder on your desktop.
+        </p>
+    </h2>
+   </body> 
+</html>
